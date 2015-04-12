@@ -1,6 +1,20 @@
 body {
 	background-color: #E6E6FA;
+	text-align: center;
 }
-h1, p {
+h1 {
 	color: #A52A2A;
+	font-size: 38px;
+}
+p {color: #A52A2A;
+font-size: 28px;
+}
+#slogan {
+	font-style: italic;
+}
+ul {
+	text-align: center;
+font-size: 24px;
+color: #A52A2A;
+list-style-type: none;
 }
