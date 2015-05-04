@@ -1,0 +1,110 @@
+body{
+	font-family: 'Lobster', cursive;
+	font-size: 20px;
+}
+
+nav a{
+	background-color: #005F2B;
+	color: #FF6600;
+	width: 150px;
+	display: block;
+	text-align: center;
+	padding: 10px;
+	float: left;
+	margin: 3px;
+	text-decoration: none;
+}
+
+ul{
+	padding-left: 60px;
+	padding-right: 60px;
+	display: block;
+	list-style-type: none;
+}
+
+nav a:hover{
+	background-color: #FF6600;
+	color: #005F2B;
+}
+
+h1{
+	font-size: 60px;
+	margin: 50px;
+}
+
+h1,h2{
+	font-family: 'Lobster', cursive;
+	text-align: center;
+	color: #FF6600;
+}
+
+p{
+	padding: 30px;
+	clear: both;
+	font-family: Arial, sans-serif;
+	color: #005F2B;
+}
+
+#wrapper{
+	width: 900px;
+	margin: 0 auto;
+}
+
+#orange{
+	width: 400px;
+	margin-left: 200px;
+	margin-right: 200px;
+}
+
+.five{
+	width: 155px;
+	height: 155px;
+}
+
+.variety a{
+	background-color: #005F2B;
+	color: #FF6600;
+	float: left;
+	margin: 1px;
+	width: 175px;
+	text-decoration: none;
+	text-align: center;
+	padding-top: 5px;
+	padding-right: 0;
+	padding-bottom: 5px;
+	padding-left: 0;
+	display: block;
+}
+
+div.variety a:hover{
+	background-color: #FF6600;
+	color: #005F2B;
+}
+
+#shop{
+	background-color: #005F2B;
+	color: #FF6600;
+	width: 200px;
+	display: block;
+	text-align: center;
+	padding: 10px;
+	float: left;
+	margin-top: 40px;
+	margin-right: 350px;
+	margin-bottom: 40px;
+	margin-left: 350px;
+	text-decoration: none;
+}
+
+#shop:hover{
+	background-color: #FF6600;
+	color: #005F2B;
+}
+
+footer{
+	text-align: center;
+	font-size: 14px;
+	font-style: italic;
+	color: #005F2B;
+	font-family: arial, sans-serif;
+}
